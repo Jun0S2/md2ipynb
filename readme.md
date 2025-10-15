@@ -8,12 +8,13 @@ making it easy to turn notes or reports into interactive notebooks.
 
 ## 📂 Project Structure
 
+```
 md2ipynb/
 ┣ 📄 converter.py # Main converter script
 ┣ 📁 markdowns/ # Put your .md files here
 ┣ 📁 outputs/ # Converted .ipynb files will be saved here
 ┗ 📄 README.md
-
+```
 
 ---
 
